@@ -207,7 +207,7 @@ export default function Home({ game }) {
 												 mahjong guides
 												</p>
 												<h1 className="text-gray-900 text-3xl font-bold text-center md:text-left capitalize mb-2">how to play</h1>
-												<p className="text-sm text-center md:text-left  mb-2 md:max-w-sm">Eager to leran 3P Mahjong but no idea where to start? Start here with this compherensive and easy to understand guide specially made for Mahjong newbies </p>
+												<p className="text-sm text-center md:text-left  mb-2 md:max-w-sm">Eager to learn 3P Mahjong but no idea where to start? Start here with this compherensive and easy to understand guide specially made for Mahjong newbies </p>
 										</div>
 								</section>
 								<section id="Videos" className="relative bg-gray-100  md:border-y pb-14">
